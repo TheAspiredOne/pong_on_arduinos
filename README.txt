@@ -1,6 +1,5 @@
-Avery Tan Section A1
-Alden Tan Section A2
-Final Project
+Avery Tan
+Alden Tan
 
 
 Program that allows us to connect 2 Arduinos together to play
