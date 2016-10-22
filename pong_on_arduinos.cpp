@@ -1,6 +1,5 @@
-//Avery Tan  Section A1
-//Alden Tan  Section A2
-//final cmput274 project
+//Avery Tan 
+//Alden Tan  
 
 
 #include <Arduino.h>
